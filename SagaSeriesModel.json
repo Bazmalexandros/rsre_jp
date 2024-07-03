@@ -1,0 +1,90 @@
+{
+  "m_GameObject": {
+    "m_FileID": 0,
+    "m_PathID": 0
+  },
+  "m_Enabled": 1,
+  "m_Script": {
+    "m_FileID": 0,
+    "m_PathID": 9066681450517905
+  },
+  "m_Name": "SagaSeriesModel",
+  "objectArray": [
+    {
+      "id": 1,
+      "model_name": "GB"
+    },
+    {
+      "id": 11,
+      "model_name": "WSC"
+    },
+    {
+      "id": 21,
+      "model_name": "DS"
+    },
+    {
+      "id": 31,
+      "model_name": "PS Vita"
+    },
+    {
+      "id": 41,
+      "model_name": "SFC"
+    },
+    {
+      "id": 51,
+      "model_name": "PS"
+    },
+    {
+      "id": 61,
+      "model_name": "PS2"
+    },
+    {
+      "id": 71,
+      "model_name": "PS4"
+    },
+    {
+      "id": 81,
+      "model_name": "PS5"
+    },
+    {
+      "id": 91,
+      "model_name": "XONE"
+    },
+    {
+      "id": 101,
+      "model_name": "Switch"
+    },
+    {
+      "id": 111,
+      "model_name": "バーチャルコンソール"
+    },
+    {
+      "id": 121,
+      "model_name": "ゲームアーカイブス"
+    },
+    {
+      "id": 131,
+      "model_name": "モバイル版"
+    },
+    {
+      "id": 141,
+      "model_name": "スマートフォン"
+    },
+    {
+      "id": 151,
+      "model_name": "スマートフォンブラウザ版"
+    },
+    {
+      "id": 161,
+      "model_name": "Steam"
+    },
+    {
+      "id": 171,
+      "model_name": "Windows版"
+    },
+    {
+      "id": 181,
+      "model_name": "PCブラウザ版"
+    }
+  ]
+}
