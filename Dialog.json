@@ -12,7 +12,7 @@
   "objectArray": [
     {
       "id": 1,
-      "name": "Formation_EquipmentChange_Complete",
+      "name": "Formation_EquipmentChange_CompleteTEST",
       "title": "装備品変更完了",
       "text": "装備品を変更しました。",
       "dialog_type": 1,
