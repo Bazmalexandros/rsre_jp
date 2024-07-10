@@ -1837,6 +1837,50 @@
       "quest_bg_id": 700000134
     },
     {
+      "id": 11405001,
+      "name": "静かな浜辺",
+      "stage_id": 19911405,
+      "floor": 1,
+      "bg_id": 0,
+      "battle_bg_id": 700000012,
+      "bgm_id": 130285,
+      "node_asset_theme": 1,
+      "quest_bg_id": 700000012
+    },
+    {
+      "id": 11405002,
+      "name": "丘陵地帯",
+      "stage_id": 19911405,
+      "floor": 2,
+      "bg_id": 0,
+      "battle_bg_id": 700000009,
+      "bgm_id": 130285,
+      "node_asset_theme": 1,
+      "quest_bg_id": 700000009
+    },
+    {
+      "id": 11405003,
+      "name": "閑散とした山村",
+      "stage_id": 19911405,
+      "floor": 3,
+      "bg_id": 0,
+      "battle_bg_id": 700000078,
+      "bgm_id": 130285,
+      "node_asset_theme": 1,
+      "quest_bg_id": 700000078
+    },
+    {
+      "id": 11405004,
+      "name": "山奥の洞窟",
+      "stage_id": 19911405,
+      "floor": 4,
+      "bg_id": 0,
+      "battle_bg_id": 700000005,
+      "bgm_id": 130285,
+      "node_asset_theme": 1,
+      "quest_bg_id": 700000005
+    },
+    {
       "id": 20026001,
       "name": "熱砂の海  南方",
       "stage_id": 19920026,

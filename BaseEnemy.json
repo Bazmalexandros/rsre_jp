@@ -1083,6 +1083,34 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 101093,
+      "pc_flag": 0,
+      "name": "レディブレード",
+      "enemy_class": 1,
+      "species": [
+        1,
+        97
+      ],
+      "gender": 2,
+      "sprite_studio": 0,
+      "illust": 1010931,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 101094,
+      "pc_flag": 0,
+      "name": "ラストモヒカン",
+      "enemy_class": 1,
+      "species": [
+        1,
+        96
+      ],
+      "gender": 1,
+      "sprite_studio": 0,
+      "illust": 1010941,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 101097,
       "pc_flag": 0,
       "name": "フィニー遊撃兵",
@@ -1406,6 +1434,48 @@
       "gender": 1,
       "sprite_studio": 0,
       "illust": 1011221,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 101123,
+      "pc_flag": 0,
+      "name": "アクスボンバー",
+      "enemy_class": 1,
+      "species": [
+        1,
+        97
+      ],
+      "gender": 2,
+      "sprite_studio": 0,
+      "illust": 1011231,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 101124,
+      "pc_flag": 0,
+      "name": "ソードマン",
+      "enemy_class": 1,
+      "species": [
+        1,
+        96
+      ],
+      "gender": 1,
+      "sprite_studio": 0,
+      "illust": 1011241,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 101125,
+      "pc_flag": 0,
+      "name": "ガンハート",
+      "enemy_class": 1,
+      "species": [
+        1,
+        97
+      ],
+      "gender": 2,
+      "sprite_studio": 0,
+      "illust": 1011251,
       "pc_enemy_skill_hold_motion": 0
     },
     {
@@ -14515,6 +14585,20 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 117024,
+      "pc_flag": 0,
+      "name": "サキュバス",
+      "enemy_class": 17,
+      "species": [
+        19,
+        97
+      ],
+      "gender": 2,
+      "sprite_studio": 0,
+      "illust": 1170241,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 118001,
       "pc_flag": 0,
       "name": "生魂",
@@ -20746,6 +20830,19 @@
       "gender": 9,
       "sprite_studio": 1,
       "illust": 1995321,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 199533,
+      "pc_flag": 0,
+      "name": "金獅子姫",
+      "enemy_class": 99,
+      "species": [
+        97
+      ],
+      "gender": 2,
+      "sprite_studio": 1,
+      "illust": 1995331,
       "pc_enemy_skill_hold_motion": 0
     },
     {
