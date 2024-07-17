@@ -3427,6 +3427,14 @@
       "name": "翠の波動を超えて ～サガ エメラルド ビヨンド～"
     },
     {
+      "id": 120434,
+      "cueName": "bgm_120434",
+      "type": "BGM",
+      "cueSheetName": "BGM120434",
+      "music_album_id": 47,
+      "name": "扉を開くとき"
+    },
+    {
       "id": 120435,
       "cueName": "bgm_120435",
       "type": "BGM",
@@ -55747,10 +55755,90 @@
       "name": ""
     },
     {
+      "id": 245635,
+      "cueName": "145200181_hit",
+      "type": "SE",
+      "cueSheetName": "SE145200181",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245636,
+      "cueName": "145200181_other",
+      "type": "SE",
+      "cueSheetName": "SE145200181",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245637,
+      "cueName": "145200180_hit",
+      "type": "SE",
+      "cueSheetName": "SE145200180",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245638,
+      "cueName": "145200180_other",
+      "type": "SE",
+      "cueSheetName": "SE145200180",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245639,
+      "cueName": "145200179_hit",
+      "type": "SE",
+      "cueSheetName": "SE145200179",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245640,
+      "cueName": "145200179_other",
+      "type": "SE",
+      "cueSheetName": "SE145200179",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245641,
+      "cueName": "140500471_hit",
+      "type": "SE",
+      "cueSheetName": "SE140500471",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245642,
+      "cueName": "140500471_other",
+      "type": "SE",
+      "cueSheetName": "SE140500471",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
       "id": 245643,
       "cueName": "140500469_other",
       "type": "SE",
       "cueSheetName": "SE140500469",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245644,
+      "cueName": "140200300_hit",
+      "type": "SE",
+      "cueSheetName": "SE140200300",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245645,
+      "cueName": "140200300_other",
+      "type": "SE",
+      "cueSheetName": "SE140200300",
       "music_album_id": 0,
       "name": ""
     },
@@ -55767,6 +55855,38 @@
       "cueName": "145600177_other",
       "type": "SE",
       "cueSheetName": "SE145600177",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245650,
+      "cueName": "140100340_hit",
+      "type": "SE",
+      "cueSheetName": "SE140100340",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245651,
+      "cueName": "140100340_other",
+      "type": "SE",
+      "cueSheetName": "SE140100340",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245652,
+      "cueName": "140100339_hit",
+      "type": "SE",
+      "cueSheetName": "SE140100339",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245653,
+      "cueName": "140100339_other",
+      "type": "SE",
+      "cueSheetName": "SE140100339",
       "music_album_id": 0,
       "name": ""
     },
@@ -55807,6 +55927,30 @@
       "cueName": "149900401_other",
       "type": "SE",
       "cueSheetName": "SE149900401",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245667,
+      "cueName": "140200299_hit",
+      "type": "SE",
+      "cueSheetName": "SE140200299",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245668,
+      "cueName": "140200299_other",
+      "type": "SE",
+      "cueSheetName": "SE140200299",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245669,
+      "cueName": "140100341_other",
+      "type": "SE",
+      "cueSheetName": "SE140100341",
       "music_album_id": 0,
       "name": ""
     },

@@ -2636,7 +2636,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 130252,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 130,
       "start_at": 0
     },
@@ -2666,7 +2666,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120031,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 180,
       "start_at": 0
     },
@@ -2716,7 +2716,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 130244,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 330,
       "start_at": 0
     },
@@ -2796,7 +2796,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120059,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 500,
       "start_at": 0
     },
@@ -2856,7 +2856,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 130224,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 800,
       "start_at": 0
     },
@@ -2866,7 +2866,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 130188,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 890,
       "start_at": 0
     },
@@ -2876,7 +2876,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 130255,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 920,
       "start_at": 0
     },
@@ -2926,7 +2926,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120262,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 360,
       "start_at": 0
     },
@@ -2946,7 +2946,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120093,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 260,
       "start_at": 0
     },
@@ -2966,7 +2966,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120265,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 560,
       "start_at": 0
     },
@@ -2986,7 +2986,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120353,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 630,
       "start_at": 1690858800
     },
@@ -2996,7 +2996,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120354,
-      "composer": "伊藤賢治<br>関戸剛",
+      "composer": "伊藤賢治",
       "sort_order": 720,
       "start_at": 1690858800
     },
@@ -3316,7 +3316,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120349,
-      "composer": "伊藤賢治<br>成田勤",
+      "composer": "伊藤賢治",
       "sort_order": 340,
       "start_at": 1690254000
     },
@@ -3326,7 +3326,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120350,
-      "composer": "伊藤賢治<br>弘田佳孝",
+      "composer": "伊藤賢治",
       "sort_order": 350,
       "start_at": 1690254000
     },
@@ -3336,7 +3336,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120351,
-      "composer": "伊藤賢治<br>成田勤",
+      "composer": "伊藤賢治",
       "sort_order": 360,
       "start_at": 1690254000
     },
@@ -5076,7 +5076,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120132,
-      "composer": "植松伸夫<br>伊藤賢治",
+      "composer": "",
       "sort_order": 20,
       "start_at": 1631070000
     },
@@ -5716,7 +5716,7 @@
       "price": 1,
       "is_free": 0,
       "sound_id": 120348,
-      "composer": "伊藤賢治<br>山下康介",
+      "composer": "伊藤賢治",
       "sort_order": 10,
       "start_at": 1690254000
     },
@@ -5811,6 +5811,26 @@
       "start_at": 1714532400
     },
     {
+      "id": 10470040,
+      "flavor_text": "",
+      "price": 1,
+      "is_free": 0,
+      "sound_id": 120419,
+      "composer": "伊藤賢治",
+      "sort_order": 40,
+      "start_at": 1721271600
+    },
+    {
+      "id": 10470110,
+      "flavor_text": "",
+      "price": 1,
+      "is_free": 0,
+      "sound_id": 120434,
+      "composer": "伊藤賢治",
+      "sort_order": 110,
+      "start_at": 1721271600
+    },
+    {
       "id": 10470120,
       "flavor_text": "",
       "price": 1,
@@ -5859,6 +5879,16 @@
       "composer": "伊藤賢治",
       "sort_order": 390,
       "start_at": 1716519600
+    },
+    {
+      "id": 10470410,
+      "flavor_text": "",
+      "price": 1,
+      "is_free": 0,
+      "sound_id": 120424,
+      "composer": "伊藤賢治",
+      "sort_order": 410,
+      "start_at": 1721271600
     },
     {
       "id": 10530530,
