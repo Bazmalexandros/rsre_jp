@@ -1881,6 +1881,17 @@
       "quest_bg_id": 700000005
     },
     {
+      "id": 11406001,
+      "name": "",
+      "stage_id": 19911406,
+      "floor": 1,
+      "bg_id": 0,
+      "battle_bg_id": 700000056,
+      "bgm_id": 130218,
+      "node_asset_theme": 1,
+      "quest_bg_id": 700000056
+    },
+    {
       "id": 20026001,
       "name": "熱砂の海  南方",
       "stage_id": 19920026,

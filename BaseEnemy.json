@@ -5129,6 +5129,19 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 104091,
+      "pc_flag": 0,
+      "name": "最後の皇帝ペギー",
+      "enemy_class": 4,
+      "species": [
+        20
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1040911,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 104093,
       "pc_flag": 0,
       "name": "コカトリス",
@@ -8284,6 +8297,20 @@
       "gender": 9,
       "sprite_studio": 0,
       "illust": 1070891,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 107091,
+      "pc_flag": 0,
+      "name": "魚人",
+      "enemy_class": 7,
+      "species": [
+        8,
+        9
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1070911,
       "pc_enemy_skill_hold_motion": 0
     },
     {
@@ -20843,6 +20870,32 @@
       "gender": 2,
       "sprite_studio": 1,
       "illust": 1995331,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 199539,
+      "pc_flag": 0,
+      "name": "鉄人",
+      "enemy_class": 99,
+      "species": [
+        99
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1995391,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 199540,
+      "pc_flag": 0,
+      "name": "自動木人(直接攻撃)",
+      "enemy_class": 99,
+      "species": [
+        99
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1995401,
       "pc_enemy_skill_hold_motion": 0
     },
     {

@@ -12968,6 +12968,46 @@
       "end_at": 1721271599
     },
     {
+      "id": 1000380,
+      "name": "陽炎の鍛錬道場-期間用",
+      "priority": 1000380,
+      "is_notify": 1,
+      "is_all": 0,
+      "area_ids": [],
+      "stage_ids": [
+        19911406
+      ],
+      "event_mission_tab_id": 468,
+      "currency": 4,
+      "currency_id": 1100997,
+      "shop_id": 4900739,
+      "panel_shop_id": 0,
+      "event_box_gacha_id": 0,
+      "help_id": 1054,
+      "start_at": 1721876400,
+      "end_at": 1722452399
+    },
+    {
+      "id": 1000381,
+      "name": "陽炎の鍛錬道場-交換所期間用",
+      "priority": 1000381,
+      "is_notify": 0,
+      "is_all": 0,
+      "area_ids": [],
+      "stage_ids": [
+        19911406
+      ],
+      "event_mission_tab_id": 0,
+      "currency": 4,
+      "currency_id": 1100997,
+      "shop_id": 4900739,
+      "panel_shop_id": 0,
+      "event_box_gacha_id": 0,
+      "help_id": 1054,
+      "start_at": 1722452400,
+      "end_at": 1723057199
+    },
+    {
       "id": 1000382,
       "name": "5.5周年記念超感謝キャンペーン（若月の記録分）",
       "priority": 1000319,
