@@ -2718,6 +2718,71 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 102076,
+      "pc_flag": 0,
+      "name": "ミノトン",
+      "enemy_class": 2,
+      "species": [
+        2
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1020761,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 102077,
+      "pc_flag": 0,
+      "name": "ドラコニアン",
+      "enemy_class": 2,
+      "species": [
+        2
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1020771,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 102078,
+      "pc_flag": 0,
+      "name": "ジャン",
+      "enemy_class": 2,
+      "species": [
+        2
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1020781,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 102079,
+      "pc_flag": 0,
+      "name": "バルバロイ",
+      "enemy_class": 2,
+      "species": [
+        2
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1020791,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 102080,
+      "pc_flag": 0,
+      "name": "ヴァリアント",
+      "enemy_class": 2,
+      "species": [
+        2
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1020801,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 102081,
       "pc_flag": 0,
       "name": "ゲットー",
@@ -8684,6 +8749,34 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 108033,
+      "pc_flag": 0,
+      "name": "竜金",
+      "enemy_class": 8,
+      "species": [
+        8,
+        9
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1080331,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 108035,
+      "pc_flag": 0,
+      "name": "ヘクトアイ",
+      "enemy_class": 8,
+      "species": [
+        8,
+        9
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1080351,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 108039,
       "pc_flag": 0,
       "name": "マグナムフィッシュ",
@@ -8695,6 +8788,21 @@
       "gender": 9,
       "sprite_studio": 0,
       "illust": 1080391,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 108043,
+      "pc_flag": 0,
+      "name": "スカーレット",
+      "enemy_class": 8,
+      "species": [
+        8,
+        9,
+        97
+      ],
+      "gender": 2,
+      "sprite_studio": 0,
+      "illust": 1080431,
       "pc_enemy_skill_hold_motion": 0
     },
     {
@@ -14343,6 +14451,34 @@
       "gender": 9,
       "sprite_studio": 1,
       "illust": 1160361,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 116041,
+      "pc_flag": 0,
+      "name": "スカイラブ",
+      "enemy_class": 16,
+      "species": [
+        18,
+        82
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1160411,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 116042,
+      "pc_flag": 0,
+      "name": "スカイラブ",
+      "enemy_class": 16,
+      "species": [
+        18,
+        82
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1160421,
       "pc_enemy_skill_hold_motion": 0
     },
     {
@@ -20899,6 +21035,19 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 199543,
+      "pc_flag": 0,
+      "name": "はにわ",
+      "enemy_class": 99,
+      "species": [
+        99
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1995431,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 211011,
       "pc_flag": 1,
       "name": "にんげんおとこ",
@@ -24587,6 +24736,19 @@
       "gender": 9,
       "sprite_studio": 0,
       "illust": 315103,
+      "pc_enemy_skill_hold_motion": 1
+    },
+    {
+      "id": 231513,
+      "pc_flag": 1,
+      "name": "ロッキー",
+      "enemy_class": 99,
+      "species": [
+        99
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 315102,
       "pc_enemy_skill_hold_motion": 1
     },
     {
