@@ -3459,6 +3459,22 @@
       "name": "海の見える窓辺から"
     },
     {
+      "id": 120439,
+      "cueName": "bgm_120439",
+      "type": "BGM",
+      "cueSheetName": "BGM120439",
+      "music_album_id": 47,
+      "name": "心踊らせて"
+    },
+    {
+      "id": 120440,
+      "cueName": "bgm_120440",
+      "type": "BGM",
+      "cueSheetName": "BGM120440",
+      "music_album_id": 47,
+      "name": "本気の戦い"
+    },
+    {
       "id": 120443,
       "cueName": "bgm_120443",
       "type": "BGM",
@@ -56283,6 +56299,30 @@
       "name": ""
     },
     {
+      "id": 245701,
+      "cueName": "145100180_hit",
+      "type": "SE",
+      "cueSheetName": "SE145100180",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245702,
+      "cueName": "145100180_hit",
+      "type": "SE",
+      "cueSheetName": "SE145100180",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245703,
+      "cueName": "145100180_other",
+      "type": "SE",
+      "cueSheetName": "SE145100180",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
       "id": 245704,
       "cueName": "140700186_hit",
       "type": "SE",
@@ -56375,6 +56415,22 @@
       "cueName": "140500476_other",
       "type": "SE",
       "cueSheetName": "SE140500476",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245716,
+      "cueName": "140200309_hit",
+      "type": "SE",
+      "cueSheetName": "SE140200309",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245717,
+      "cueName": "140200309_other",
+      "type": "SE",
+      "cueSheetName": "SE140200309",
       "music_album_id": 0,
       "name": ""
     },
@@ -56475,6 +56531,62 @@
       "name": ""
     },
     {
+      "id": 245731,
+      "cueName": "145300052_hit",
+      "type": "SE",
+      "cueSheetName": "SE145300052",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245732,
+      "cueName": "145300052_other",
+      "type": "SE",
+      "cueSheetName": "SE145300052",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245733,
+      "cueName": "145300051_other",
+      "type": "SE",
+      "cueSheetName": "SE145300051",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245734,
+      "cueName": "140500481_hit",
+      "type": "SE",
+      "cueSheetName": "SE140500481",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245735,
+      "cueName": "140500481_other",
+      "type": "SE",
+      "cueSheetName": "SE140500481",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245736,
+      "cueName": "140200308_hit",
+      "type": "SE",
+      "cueSheetName": "SE140200308",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245737,
+      "cueName": "140200308_other",
+      "type": "SE",
+      "cueSheetName": "SE140200308",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
       "id": 245738,
       "cueName": "140500477_hit",
       "type": "SE",
@@ -56495,6 +56607,22 @@
       "cueName": "140500480_other",
       "type": "SE",
       "cueSheetName": "SE140500480",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245747,
+      "cueName": "140500482_hit",
+      "type": "SE",
+      "cueSheetName": "SE140500482",
+      "music_album_id": 0,
+      "name": ""
+    },
+    {
+      "id": 245748,
+      "cueName": "140500482_other",
+      "type": "SE",
+      "cueSheetName": "SE140500482",
       "music_album_id": 0,
       "name": ""
     },

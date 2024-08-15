@@ -5207,6 +5207,20 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 104092,
+      "pc_flag": 0,
+      "name": "ハーピー",
+      "enemy_class": 4,
+      "species": [
+        20,
+        82
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1040921,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 104093,
       "pc_flag": 0,
       "name": "コカトリス",
@@ -7400,6 +7414,32 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 106081,
+      "pc_flag": 0,
+      "name": "クエイカーワーム",
+      "enemy_class": 6,
+      "species": [
+        7
+      ],
+      "gender": 9,
+      "sprite_studio": 1,
+      "illust": 1060811,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 106082,
+      "pc_flag": 0,
+      "name": "ワームブルード",
+      "enemy_class": 6,
+      "species": [
+        7
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1060821,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 107001,
       "pc_flag": 0,
       "name": "ウミウシ",
@@ -8437,6 +8477,19 @@
       "id": 107096,
       "pc_flag": 0,
       "name": "クラーケン",
+      "enemy_class": 7,
+      "species": [
+        8
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1070961,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 107097,
+      "pc_flag": 0,
+      "name": "カン＝ケルゥ",
       "enemy_class": 7,
       "species": [
         8
@@ -18370,6 +18423,32 @@
       "gender": 9,
       "sprite_studio": 0,
       "illust": 1992701,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 199271,
+      "pc_flag": 0,
+      "name": "ブロンズプリマ",
+      "enemy_class": 99,
+      "species": [
+        3
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1992711,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 199272,
+      "pc_flag": 0,
+      "name": "サイクロプス",
+      "enemy_class": 99,
+      "species": [
+        3
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1992721,
       "pc_enemy_skill_hold_motion": 0
     },
     {
