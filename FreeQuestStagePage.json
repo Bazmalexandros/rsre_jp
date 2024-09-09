@@ -354,6 +354,13 @@
       "free_quest_stage_page_type": 1
     },
     {
+      "id": 1115002,
+      "area_id": 10015,
+      "order": 20,
+      "icon": 10089,
+      "free_quest_stage_page_type": 1
+    },
+    {
       "id": 1200001,
       "area_id": 10001,
       "order": 100,

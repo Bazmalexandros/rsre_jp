@@ -11746,6 +11746,20 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 112092,
+      "pc_flag": 0,
+      "name": "墓場の悪霊",
+      "enemy_class": 12,
+      "species": [
+        13,
+        82
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1120541,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 113001,
       "pc_flag": 0,
       "name": "イルヘッド",
@@ -21124,6 +21138,32 @@
       "gender": 9,
       "sprite_studio": 0,
       "illust": 1995431,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 199545,
+      "pc_flag": 0,
+      "name": "アン・ルー",
+      "enemy_class": 99,
+      "species": [
+        97
+      ],
+      "gender": 2,
+      "sprite_studio": 1,
+      "illust": 1995451,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 199549,
+      "pc_flag": 0,
+      "name": "アベントズィーガー",
+      "enemy_class": 99,
+      "species": [
+        18
+      ],
+      "gender": 9,
+      "sprite_studio": 1,
+      "illust": 1995491,
       "pc_enemy_skill_hold_motion": 0
     },
     {

@@ -2801,6 +2801,36 @@
       "synopsis_id": 10405080
     },
     {
+      "id": 10501001,
+      "name": "4部Episode01 OP",
+      "scenario_script_name": "10501-001",
+      "synopsis_id": 0
+    },
+    {
+      "id": 10501010,
+      "name": "4部Episode01 010",
+      "scenario_script_name": "10501-010",
+      "synopsis_id": 0
+    },
+    {
+      "id": 10501020,
+      "name": "4部Episode01 020",
+      "scenario_script_name": "10501-020",
+      "synopsis_id": 0
+    },
+    {
+      "id": 10501030,
+      "name": "4部Episode01 030",
+      "scenario_script_name": "10501-030",
+      "synopsis_id": 0
+    },
+    {
+      "id": 10501040,
+      "name": "4部Episode01 040",
+      "scenario_script_name": "10501-040",
+      "synopsis_id": 0
+    },
+    {
       "id": 20001010,
       "name": "祠シナリオ【エレン】10",
       "scenario_script_name": "20001-010",
@@ -5048,6 +5078,12 @@
       "id": 90013020,
       "name": "新チュートリアル後編",
       "scenario_script_name": "90013-020",
+      "synopsis_id": 0
+    },
+    {
+      "id": 90014001,
+      "name": "4部導入劇",
+      "scenario_script_name": "90014-001",
       "synopsis_id": 0
     }
   ]

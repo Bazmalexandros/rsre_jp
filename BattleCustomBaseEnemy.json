@@ -991,6 +991,31 @@
       "enemy_size": 2
     },
     {
+      "id": 102076,
+      "base_enemy_id": 102076,
+      "enemy_size": 3
+    },
+    {
+      "id": 102077,
+      "base_enemy_id": 102077,
+      "enemy_size": 2
+    },
+    {
+      "id": 102078,
+      "base_enemy_id": 102078,
+      "enemy_size": 1
+    },
+    {
+      "id": 102079,
+      "base_enemy_id": 102079,
+      "enemy_size": 2
+    },
+    {
+      "id": 102080,
+      "base_enemy_id": 102080,
+      "enemy_size": 3
+    },
+    {
       "id": 102081,
       "base_enemy_id": 102081,
       "enemy_size": 1
@@ -3016,6 +3041,11 @@
       "enemy_size": 2
     },
     {
+      "id": 107091,
+      "base_enemy_id": 107091,
+      "enemy_size": 2
+    },
+    {
       "id": 107092,
       "base_enemy_id": 107092,
       "enemy_size": 1
@@ -3039,6 +3069,11 @@
       "id": 107096,
       "base_enemy_id": 107096,
       "enemy_size": 3
+    },
+    {
+      "id": 107097,
+      "base_enemy_id": 107097,
+      "enemy_size": 4
     },
     {
       "id": 108001,
@@ -3151,9 +3186,24 @@
       "enemy_size": 1
     },
     {
+      "id": 108033,
+      "base_enemy_id": 108033,
+      "enemy_size": 2
+    },
+    {
+      "id": 108035,
+      "base_enemy_id": 108035,
+      "enemy_size": 2
+    },
+    {
       "id": 108039,
       "base_enemy_id": 108039,
       "enemy_size": 1
+    },
+    {
+      "id": 108043,
+      "base_enemy_id": 108043,
+      "enemy_size": 2
     },
     {
       "id": 108044,
@@ -3174,6 +3224,16 @@
       "id": 108047,
       "base_enemy_id": 108047,
       "enemy_size": 1
+    },
+    {
+      "id": 108050,
+      "base_enemy_id": 108050,
+      "enemy_size": 3
+    },
+    {
+      "id": 108051,
+      "base_enemy_id": 108051,
+      "enemy_size": 2
     },
     {
       "id": 109001,
@@ -4221,6 +4281,11 @@
       "enemy_size": 2
     },
     {
+      "id": 112092,
+      "base_enemy_id": 112092,
+      "enemy_size": 3
+    },
+    {
       "id": 113001,
       "base_enemy_id": 113001,
       "enemy_size": 1
@@ -5199,6 +5264,16 @@
       "id": 116036,
       "base_enemy_id": 116036,
       "enemy_size": 4
+    },
+    {
+      "id": 116041,
+      "base_enemy_id": 116041,
+      "enemy_size": 1
+    },
+    {
+      "id": 116042,
+      "base_enemy_id": 116042,
+      "enemy_size": 1
     },
     {
       "id": 117001,
@@ -7283,6 +7358,11 @@
     {
       "id": 199540,
       "base_enemy_id": 199540,
+      "enemy_size": 1
+    },
+    {
+      "id": 199543,
+      "base_enemy_id": 199543,
       "enemy_size": 1
     }
   ]
