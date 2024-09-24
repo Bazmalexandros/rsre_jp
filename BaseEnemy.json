@@ -1728,6 +1728,19 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 101152,
+      "pc_flag": 0,
+      "name": "さむらい",
+      "enemy_class": 1,
+      "species": [
+        1
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1011521,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 101153,
       "pc_flag": 0,
       "name": "リアルクィーン・ジョー",
@@ -2687,6 +2700,19 @@
       "gender": 9,
       "sprite_studio": 0,
       "illust": 1020711,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 102072,
+      "pc_flag": 0,
+      "name": "ピッグマン",
+      "enemy_class": 2,
+      "species": [
+        2
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1020721,
       "pc_enemy_skill_hold_motion": 0
     },
     {
@@ -5166,6 +5192,20 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 104085,
+      "pc_flag": 0,
+      "name": "朱雀",
+      "enemy_class": 4,
+      "species": [
+        20,
+        82
+      ],
+      "gender": 9,
+      "sprite_studio": 1,
+      "illust": 1040851,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 104089,
       "pc_flag": 0,
       "name": "レッドウイング",
@@ -6022,6 +6062,19 @@
       "gender": 9,
       "sprite_studio": 0,
       "illust": 1050541,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 105057,
+      "pc_flag": 0,
+      "name": "トレント",
+      "enemy_class": 5,
+      "species": [
+        6
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1050331,
       "pc_enemy_skill_hold_motion": 0
     },
     {
@@ -8287,6 +8340,20 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 107072,
+      "pc_flag": 0,
+      "name": "うみがめ",
+      "enemy_class": 7,
+      "species": [
+        8,
+        10
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1070721,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 107073,
       "pc_flag": 0,
       "name": "呼子イカ",
@@ -9820,6 +9887,20 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 110046,
+      "pc_flag": 0,
+      "name": "どくがえる",
+      "enemy_class": 10,
+      "species": [
+        11,
+        81
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1100241,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 110050,
       "pc_flag": 0,
       "name": "リザードマン",
@@ -9986,6 +10067,20 @@
       "gender": 9,
       "sprite_studio": 0,
       "illust": 1070801,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 110067,
+      "pc_flag": 0,
+      "name": "さんしょううお",
+      "enemy_class": 10,
+      "species": [
+        10,
+        4
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1100671,
       "pc_enemy_skill_hold_motion": 0
     },
     {
@@ -11691,6 +11786,19 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 112087,
+      "pc_flag": 0,
+      "name": "ゾンビ",
+      "enemy_class": 12,
+      "species": [
+        13
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1120871,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 112088,
       "pc_flag": 0,
       "name": "死せる賢者",
@@ -12462,6 +12570,20 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 113052,
+      "pc_flag": 0,
+      "name": "がいこつ",
+      "enemy_class": 13,
+      "species": [
+        84,
+        13
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1130521,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 113053,
       "pc_flag": 0,
       "name": "スカルダンサー",
@@ -12472,6 +12594,20 @@
       "gender": 9,
       "sprite_studio": 0,
       "illust": 1130531,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 113054,
+      "pc_flag": 0,
+      "name": "がいこつせんし",
+      "enemy_class": 13,
+      "species": [
+        84,
+        13
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1130391,
       "pc_enemy_skill_hold_motion": 0
     },
     {
@@ -20893,6 +21029,19 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 199501,
+      "pc_flag": 0,
+      "name": "カオス",
+      "enemy_class": 99,
+      "species": [
+        99
+      ],
+      "gender": 9,
+      "sprite_studio": 1,
+      "illust": 1995011,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 199504,
       "pc_flag": 0,
       "name": "イゴマール",
@@ -21154,6 +21303,19 @@
       "pc_enemy_skill_hold_motion": 0
     },
     {
+      "id": 199546,
+      "pc_flag": 0,
+      "name": "木の神霊",
+      "enemy_class": 99,
+      "species": [
+        82
+      ],
+      "gender": 9,
+      "sprite_studio": 1,
+      "illust": 1995461,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
       "id": 199549,
       "pc_flag": 0,
       "name": "アベントズィーガー",
@@ -21164,6 +21326,33 @@
       "gender": 9,
       "sprite_studio": 1,
       "illust": 1995491,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 199550,
+      "pc_flag": 0,
+      "name": "ネメアー",
+      "enemy_class": 99,
+      "species": [
+        4,
+        96
+      ],
+      "gender": 1,
+      "sprite_studio": 1,
+      "illust": 1995501,
+      "pc_enemy_skill_hold_motion": 0
+    },
+    {
+      "id": 199559,
+      "pc_flag": 0,
+      "name": "どくミミズ",
+      "enemy_class": 99,
+      "species": [
+        99
+      ],
+      "gender": 9,
+      "sprite_studio": 0,
+      "illust": 1994781,
       "pc_enemy_skill_hold_motion": 0
     },
     {

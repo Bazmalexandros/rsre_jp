@@ -16314,6 +16314,26 @@
       "help_id": 1066,
       "start_at": 1725937200,
       "end_at": 1726628399
+    },
+    {
+      "id": 1000466,
+      "name": "鍛錬道場-蘇る脅威の記憶たち-",
+      "priority": 1000466,
+      "is_notify": 0,
+      "is_all": 0,
+      "area_ids": [],
+      "stage_ids": [
+        19911515
+      ],
+      "event_mission_tab_id": 477,
+      "currency": 4,
+      "currency_id": 1101025,
+      "shop_id": 4900771,
+      "panel_shop_id": 0,
+      "event_box_gacha_id": 0,
+      "help_id": 1073,
+      "start_at": 1727233200,
+      "end_at": 1727751599
     }
   ]
 }

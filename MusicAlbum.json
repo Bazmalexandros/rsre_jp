@@ -305,6 +305,20 @@
       "sort_order": 400
     },
     {
+      "id": 48,
+      "name": "ロマンシング サガ2 リベンジオブザセブン Original Soundtrack",
+      "flavor_text": "",
+      "icon": 2000,
+      "sort_order": 420
+    },
+    {
+      "id": 49,
+      "name": "Romancing SaGa Re;univerSe Original Soundtrack vol.3",
+      "flavor_text": "『ロマサガRS』サントラ第3弾。作曲家・伊藤賢治が手掛けるリアム編、シィレイ編の楽曲と共に、4周年記念で制作された『Entrance－再星－』を収録。",
+      "icon": 1048,
+      "sort_order": 23
+    },
+    {
       "id": 998,
       "name": "舞台「SaGa THE STAGE～再生の絆～」",
       "flavor_text": "",

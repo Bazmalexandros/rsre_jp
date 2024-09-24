@@ -2571,6 +2571,16 @@
       "start_at": 1671073200
     },
     {
+      "id": 10060450,
+      "flavor_text": "",
+      "price": 1,
+      "is_free": 0,
+      "sound_id": 120288,
+      "composer": "浜渦正志",
+      "sort_order": 450,
+      "start_at": 1727233200
+    },
+    {
       "id": 10060490,
       "flavor_text": "",
       "price": 1,
@@ -4639,6 +4649,16 @@
       "composer": "笹井隆司",
       "sort_order": 80,
       "start_at": 1632452400
+    },
+    {
+      "id": 10200090,
+      "flavor_text": "",
+      "price": 1,
+      "is_free": 0,
+      "sound_id": 120447,
+      "composer": "伊藤賢治",
+      "sort_order": 90,
+      "start_at": 1726628400
     },
     {
       "id": 10200100,
